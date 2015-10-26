@@ -1,1 +1,2 @@
-kucing
+putih
+hitam
