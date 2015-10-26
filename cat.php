@@ -1,2 +1,3 @@
 putih
 hitam
+hitam putih

@@ -1,1 +1,3 @@
-burung
+kakak tua 
+helang
+hantu
